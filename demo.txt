@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 demo
+=======
+demo1
+ruguo
+>>>>>>> 097d7cd89182cb89cefc06c225666cdecc7bbb19
